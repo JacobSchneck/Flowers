@@ -1,6 +1,6 @@
 # Final-Project-jschnec1
 ## Summary 
-Hello! Spring is in the air! Can't you smell it? No, well that stinks. On a totally unrelated note, this is a program that plants flowers. Three flowers to be exact: BasicFlower, SunFlower, and ElongatedFlower. These flowers aren't like those lazy no good real flowers outside. These flowers spin. So forget about nature and spring and lets plant some flowers! 
+Hello! Spring is in the air! Can't you smell it? No, well that stinks. On a totally unrelated note, this is a program that plants flowers. Three flowers to be exact: BasicFlower, SunFlower, and ElongatedFlower. These flowers aren't like those lazy no good real flowers outside. These flowers spin. So forget about nature, lets plant some flowers! 
 
 ## Contributers
 All code is authored by Jacob Schneck or Lisa Dion. (The shapes and parts of graphics.cpp/graphics.h are of the brain trust of Lisa Dion)
